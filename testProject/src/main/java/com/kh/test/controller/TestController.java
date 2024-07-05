@@ -7,5 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping
 public class TestController {
 
-	"³»°¡ ÀÛ¾÷ÇØ¼­ ¿Ã¸°°ÅÀÓ ÁøÂ¥ÀÓ ÁøÂ¥Â¢¤¤Â¥ÀÓ "
+	"ï¿½ï¿½ï¿½ï¿½ ï¿½Û¾ï¿½ï¿½Ø¼ï¿½ ï¿½Ã¸ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Â¥ï¿½ï¿½ ï¿½ï¿½Â¥Â¢ï¿½ï¿½Â¥ï¿½ï¿½ "
+	
+	"ì¸ì½”ë”© ë‹¤ ê¹¨ì§"
 }
